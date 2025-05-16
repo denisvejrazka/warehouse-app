@@ -1,0 +1,16 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+h1, h2, h3 {
+  margin-top: 30px;
+}
+
+form {
+  margin-top: 30px;
+}
